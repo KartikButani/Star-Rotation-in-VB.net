@@ -8,4 +8,4 @@ It is build in Visual Basic 2008. You can use VB 2008 or greater version
 
 https://www.youtube.com/watch?v=qOctXxfP8RU
 
-[![](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=qOctXxfP8RU)
+[![Rotation Video On Youtube](https://raw.githubusercontent.com/KartikButani/Star-Rotation-in-VB.net/master/rotation.png)](https://www.youtube.com/watch?v=qOctXxfP8RU)
