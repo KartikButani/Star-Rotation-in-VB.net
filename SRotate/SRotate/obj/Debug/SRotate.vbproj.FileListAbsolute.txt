@@ -1,0 +1,10 @@
+C:\Users\krButani\Desktop\SRotate\SRotate\bin\Debug\SRotate.exe
+C:\Users\krButani\Desktop\SRotate\SRotate\bin\Debug\SRotate.pdb
+C:\Users\krButani\Desktop\SRotate\SRotate\bin\Debug\SRotate.xml
+C:\Users\krButani\Desktop\SRotate\SRotate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\krButani\Desktop\SRotate\SRotate\obj\Debug\SRotate.Form1.resources
+C:\Users\krButani\Desktop\SRotate\SRotate\obj\Debug\SRotate.Resources.resources
+C:\Users\krButani\Desktop\SRotate\SRotate\obj\Debug\SRotate.vbproj.GenerateResource.Cache
+C:\Users\krButani\Desktop\SRotate\SRotate\obj\Debug\SRotate.exe
+C:\Users\krButani\Desktop\SRotate\SRotate\obj\Debug\SRotate.xml
+C:\Users\krButani\Desktop\SRotate\SRotate\obj\Debug\SRotate.pdb
